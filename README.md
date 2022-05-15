@@ -9,9 +9,13 @@ Create a Python program called: read_csv_file_into_dictionary.py
 
 Create a Python program called: read_an_html_page
     read a HTML page from a URL on the internet: https://a-z-animals.com/animals/
-
     count the elements associated with the HTML_Tags and Descriptions.csv
+    print the elements counts and descriptions
 
-    print the elements in order of highest count to lowest count
+Creat a basic html page on you computer
+    read the page with your browser
+
+
+
 
 
